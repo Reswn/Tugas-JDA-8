@@ -6,7 +6,6 @@ Proyek ini adalah aplikasi **Next.js** yang mengimplementasikan **NextAuth.js** 
 
 - Middleware untuk proteksi halaman
 - Halaman publik dan halaman dashboard
-- 
 - Register & Login page
 - Menampilkan informasi user yang login
 
